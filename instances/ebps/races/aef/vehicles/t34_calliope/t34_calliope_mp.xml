@@ -213,7 +213,7 @@
 					<float name="max_health_percentage" value="0.25" />
 					<list name="critical_info">
 						<group name="info">
-							<float name="weight" value="10" />
+							<float name="weight" value="0" />
 							<enum_table name="applicable_weapons">
 								<bool name="small_arms" value="True" />
 								<bool name="flame" value="True" />

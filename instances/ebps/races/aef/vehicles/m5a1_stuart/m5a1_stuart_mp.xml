@@ -332,7 +332,7 @@
 							<enum name="apply_on" value="penetrate" />
 						</group>
 						<group name="info">
-							<float name="weight" value="10" />
+							<float name="weight" value="0" />
 							<enum_table name="applicable_weapons">
 								<bool name="small_arms" value="False" />
 								<bool name="flame" value="False" />
