@@ -428,7 +428,7 @@
 			<instance_reference name="hit_material" value="hit_material\stone" />
 			<bool name="hit_non_neutral" value="False" />
 			<float name="hit_percentage" value="1" />
-			<bool name="pass_through" value="False" />
+			<bool name="pass_through" value="True" />
 			<group name="projectile_pass_through">
 				<bool name="tp_artillery" value="True" />
 				<bool name="tp_artillery_inf" value="True" />

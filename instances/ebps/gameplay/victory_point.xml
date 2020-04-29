@@ -239,10 +239,10 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\impass_ext">
 			<bool name="cant_build" value="True" />
-			<bool name="heavy_crush" value="True" />
-			<bool name="land" value="True" />
-			<bool name="light_crush" value="True" />
-			<bool name="medium_crush" value="True" />
+			<bool name="heavy_crush" value="False" />
+			<bool name="land" value="False" />
+			<bool name="light_crush" value="False" />
+			<bool name="medium_crush" value="False" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\hit_object_ext">
 			<instance_reference name="hit_material" value="hit_material\stone" />
