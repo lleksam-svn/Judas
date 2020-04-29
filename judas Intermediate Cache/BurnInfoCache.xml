@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas.xml</FileName>
+			<FileHash>cf983d8c379794904eb3f67dde515c86</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
+			<FileHash>c724c66a6c63b4204dbcdb0c5b708f93</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\gameplay\territory_munitions_point_mp.xml</FileName>
+			<FileHash>dddaea00787558b619bcb58dcd7e6ab0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\gameplay\territory_point_mp.xml</FileName>
+			<FileHash>20908b39b8e66cf2fa7f2682b9ecb948</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\gameplay\victory_point.xml</FileName>
+			<FileHash>16a6c68ad71928c694bfc711cd17f6e1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
+			<FileHash>9ad9e3286c3b8553b77f9f2185907dcd</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_ambulance_mp.xml</FileName>
+			<FileHash>19d63f59a4bb139c523878648c881d80</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_mp.xml</FileName>
+			<FileHash>f4c2bb1e7b546738260e1ef2094859a9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_mp_pathfinders.xml</FileName>
+			<FileHash>733624beaf2b4f4b9940e7bfffcb3210</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_british_mp.xml</FileName>
+			<FileHash>8472e5cf35ba8320f1e2f2fc6e3cb701</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m10_tank_destroyer\m10_tank_destroyer_mp.xml</FileName>
+			<FileHash>052296e8d16725e8471576492e61778e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m20_utility_car\m20_utility_car_mp.xml</FileName>
+			<FileHash>b733f0e01cacb9524a61e0547505e271</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m26_pershing\m26_pershing_mp.xml</FileName>
+			<FileHash>893f8e9ed36d121fedcc594cc456e2af</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m36_tank_destroyer\m36_tank_destroyer_mp.xml</FileName>
+			<FileHash>1dc5559ed6f09c42feefbd90f1a2ac99</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m3_halftrack\m15a1_aa_halftrack_mp.xml</FileName>
+			<FileHash>de0f1db6f06a294fac4352addfeb6334</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m3_halftrack\m21_mortar_halftrack_mp.xml</FileName>
+			<FileHash>8ed24623892c89a49991bd093e05d264</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_assault_mp.xml</FileName>
+			<FileHash>ace9d936aaecebfac34ced384258711a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_mechanized_assault_mp.xml</FileName>
+			<FileHash>5d5f5d1cbadf9219a02eda568572fa83</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m3_halftrack\m3_halftrack_mp.xml</FileName>
+			<FileHash>3128fe210b2a40527fc0f8b2d6f0c936</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3e8_sherman_easy_8_mp.xml</FileName>
+			<FileHash>ed84477464465a1222af1afec45a3a07</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_76mm_commander_mp.xml</FileName>
+			<FileHash>5de4dd60f43e121c231e5dc80e1a05f3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_76mm_sherman_mp.xml</FileName>
+			<FileHash>3255c1559b70a66f8751631edad080bc</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_bulldozer_mp.xml</FileName>
+			<FileHash>86258057b0ad812e3a5940ec491a84c4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m4a3_sherman\m4a3_sherman_mp.xml</FileName>
+			<FileHash>8aeb7f3a371502626251959f97d06106</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m5a1_stuart\m5a1_stuart_mp.xml</FileName>
+			<FileHash>efc70577f2cd943ab7e52421356edd78</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m5_halftrack\m5_halftrack_usf_mp.xml</FileName>
+			<FileHash>bb678bdaa0a33612d17b4fa727aac1fe</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m7b1_priest\m7b1_priest_mp.xml</FileName>
+			<FileHash>0b6a31ade2ff5742245b99286ed6d0c3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.xml</FileName>
+			<FileHash>9c1518181ba972aed86b2ac4ef3a628f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.xml</FileName>
+			<FileHash>8ea11517c05f042f2bf9e537a2349c4a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_mark_vehicle_mp.xml</FileName>
+			<FileHash>a3e59424c5d1fe1e18139784652ba430</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon.xml</FileName>
+			<FileHash>8ae57f9ff8bd0ed4939c8c5a533334b8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon_plane_sweep.xml</FileName>
+			<FileHash>2a83ba6e32aa9984956b5c22b2d9f4e6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon_tracking.xml</FileName>
+			<FileHash>bcf9fec84925b3377df5243f72f0a225</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_rockets.xml</FileName>
+			<FileHash>7efd5af709af3cebeb1a6878aa170b0d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_strafe.xml</FileName>
+			<FileHash>7f491eadcfcbbc1c9361bb84f105877d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\t34_calliope\t34_calliope_mp.xml</FileName>
+			<FileHash>042f8b51f89991de1bb2e0f6ca23a95a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.xml</FileName>
+			<FileHash>1dd4d75e733872e3f929aa2df4cc359f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\centaur\centaur_aa_mk2_mp.xml</FileName>
+			<FileHash>f5325c94562363cc6b1b31556ade3d0e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\churchill\churchill_avre_mp.xml</FileName>
+			<FileHash>45862457e226059150f92ce840176c95</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\churchill\churchill_crocodile_mp.xml</FileName>
+			<FileHash>4a548c8999f8af1e5f7f80ac726770ad</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\churchill\churchill_default_mp.xml</FileName>
+			<FileHash>5c13377595ffd62a3c7f839c909deb27</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\comet\comet_mp.xml</FileName>
+			<FileHash>1d5d12614b98b5d18f416f225852581f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\cromwell\cromwell_mk4_75mm_mp.xml</FileName>
+			<FileHash>a4e2b5281fb27d9bd8cd3f805f99d95d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\recon_hawker_typhoon_assault_mp.xml</FileName>
+			<FileHash>91ab1b99003b81bd2e326ecfa34f1875</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\recon_hawker_typhoon_mp.xml</FileName>
+			<FileHash>087f19d0746efb9b0457498f01cfb7f9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\rocket_hawker_typhoon_mp.xml</FileName>
+			<FileHash>a0b3e4ac9b4cdf219c536aa319d25def</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\strafe_hawker_typhoon_air_superiority_mp.xml</FileName>
+			<FileHash>70c692746df7329ba3e400bf0ef3b1a5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\strafe_hawker_typhoon_mp.xml</FileName>
+			<FileHash>58e10d0f588daa7ea20d5637f33970aa</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
+			<FileHash>aa78c5f9fa4e584c47dcfb333289e15e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\m5_halftrack\m5_halftrack_british_mp.xml</FileName>
+			<FileHash>24950abad3572ea2b3cbbe3598607385</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\planes\spitfire_recon_plane.xml</FileName>
+			<FileHash>9c6d7df6556d9d5770d507c7a3b762ee</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\sexton_spg\sexton_spg_mp.xml</FileName>
+			<FileHash>b7912606ef449d7df5960df9219ccc07</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\sherman_firefly\sherman_firefly_m4a2_mp.xml</FileName>
+			<FileHash>1465899e97f584aca962f0fd93e43072</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.xml</FileName>
+			<FileHash>12c4e59811fcea94f6956cc4e9bd40c4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\universal_carrier\universal_carrier_resupply_mp.xml</FileName>
+			<FileHash>d55a3dbbaef2f66ab02494a05d92d7d2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\valentine\valentine_observation_mp.xml</FileName>
+			<FileHash>fd563ea027cfddd78e9dd61ad6651f62</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\armored_car_sdkfz_222\armored_car_sdkfz_222_mp.xml</FileName>
+			<FileHash>90fc9cbe67592515f7a46c200c6853f5</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\brummbar_sturmpanzer_iv_sdkfz_166\brummbar_sturmpanzer_iv_sdkfz_166_mp.xml</FileName>
+			<FileHash>bca11215ae515d112c71011ab1c93fa2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\elefant_sdkfz_184\elefant_sdkfz_184_mp.xml</FileName>
+			<FileHash>33a6429d4aad574f0e1909434d0b4c83</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp.xml</FileName>
+			<FileHash>d197d92480ae7417cae6942533ed96d4</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_grenadier_mp.xml</FileName>
+			<FileHash>34058d9ac95b941d0a6048cd2ea42f57</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\light_halftrack_250\mechanized_250_halftrack_mp.xml</FileName>
+			<FileHash>a3f7534567fad702a5bf66c8323111d1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\light_halftrack_250\mortar_light_halftrack_250_7_mp.xml</FileName>
+			<FileHash>3c4c98c401329617d7e6b15bd01c42ec</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\opel_blitz_truck\opel_blitz_supply_truck_mp.xml</FileName>
+			<FileHash>63953a522ed89bc8880090f222a826b3</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\ostwind_flak_panzer\ostwind_flak_panzer_mp.xml</FileName>
+			<FileHash>fd1d3fa62074a8e8731074ec5fdf9fae</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panther_sdkfz_171\panther_sdkfz_171_mp.xml</FileName>
+			<FileHash>e76fa7194e0190b52745cbbe1579260b</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panzerwerfer_sdkfz_4_1\panzerwerfer_sdkfz_4_1_mp.xml</FileName>
+			<FileHash>750bc9ad3f48361bb1d0f7ccac42f423</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panzer_iv_sdkfz_161\panzer_iv_commander_sdkfz_161_mp.xml</FileName>
+			<FileHash>3226c2992f9469f092f7a37847c14f09</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_161_mp.xml</FileName>
+			<FileHash>e5fe81d886f27f5952403edc9c057912</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf1_mp.xml</FileName>
+			<FileHash>f220b7c291291035d7290b5e9565ca3f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_ostheer_mp.xml</FileName>
+			<FileHash>9ee3d89b684865536b7a7f607432755e</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\puma\puma_east_german.xml</FileName>
+			<FileHash>3dbe5ce6c4796ef4fd74e91f0dc1499a</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_commander_mp.xml</FileName>
+			<FileHash>8aef9d9bda3cee38f03d791eca3ff775</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_e_sdkfz_141_1_mp.xml</FileName>
+			<FileHash>de6ebae13b841d2dee58463cfbc75ec1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\stug_iii_sdkfz_141_1\stug_iii_g_sdkfz_141_1_mp.xml</FileName>
+			<FileHash>41bae87c851930bfa7b608c7b88019f1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\tiger_sdkfz_181\tiger_ace_sdkfz_181_mp.xml</FileName>
+			<FileHash>7853818ad1be1f21c635e3247bf6a5eb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\german\vehicles\tiger_sdkfz_181\tiger_sdkfz_181_mp.xml</FileName>
+			<FileHash>70dee178c898e92c7c8c40faf8037d11</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\is-2_heavy_tank\is-2_heavy_tank_mp.xml</FileName>
+			<FileHash>d7107fe77bcca0b868d272af65f35402</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\isu_152_spg\isu_152_spg_mp.xml</FileName>
+			<FileHash>bee648957aeb840e6745fadb336e4479</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\katyusha_rocket_trucks\katyusha_bm-13n_mp.xml</FileName>
+			<FileHash>5ee8ebfc1afa4c2b3bf76c5430c02f5f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\kv-1\kv-1_mp.xml</FileName>
+			<FileHash>dbeae9fbd362ed4a6fb7716f85997268</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\kv-2\kv-2_mp.xml</FileName>
+			<FileHash>48c5681d5a230a8b69463a2540c0c5a2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\kv-8\kv-8_mp.xml</FileName>
+			<FileHash>563830bd0b454c89461601d115420ee9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\m3a1_scout_car\m3a1_scout_car_mp.xml</FileName>
+			<FileHash>bb4b60694ab2859fad78c756e83c134c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\sherman\sherman_soviet.xml</FileName>
+			<FileHash>6b1c6e5103ab4cfb6ae23719a804f12c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\su_76m\su_76m_mp.xml</FileName>
+			<FileHash>987a6ec01aac230d1c4f4218393cf4b9</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\t_34\t_34_76_mp.xml</FileName>
+			<FileHash>9e932208f4d1729824c61b7387209e94</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\t_34\t_34_85_mp.xml</FileName>
+			<FileHash>756a95fcc11a1dcdfa9f43b6c01d7513</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\t_70m\t_70m_mp.xml</FileName>
+			<FileHash>b8c3aa8095ad10f3ca88958e5bfdd389</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\us6_truck\us6_truck_mp.xml</FileName>
+			<FileHash>3e3329948830eaa172fcd64615f3444c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\armored_car_sdkfz_221\armored_car_sdkfz_221_mp.xml</FileName>
+			<FileHash>2e587702bb85223e55b7ee4106897c06</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_17_flak_mp.xml</FileName>
+			<FileHash>8d981e58dbd11277ff11dd3aec807a39</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_20_ir_searchlight_mp.xml</FileName>
+			<FileHash>4cebf9737f03537b0af884742bf80109</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_mp_2.xml</FileName>
+			<FileHash>2964bb46939759aa118fd39274c71a6f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\halftrack_sdkfz_251\halftrack_sdkfz_251_wurfrahmen_40_mp.xml</FileName>
+			<FileHash>6ea56f1df7ac6ffdf04fdedad458e85d</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\hetzer\hetzer_mp.xml</FileName>
+			<FileHash>469ba51ce4318000c5f2c3cdb7883cec</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\jagdpanzer_iv_sdkfz_162\jagdpanzer_iv_sdkfz_162_mp.xml</FileName>
+			<FileHash>2dd5325925b997f5dd474725a2d790fe</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\jagdtiger_sdkfz_186\jagdtiger_sdkfz_186_mp.xml</FileName>
+			<FileHash>ceb130ac7eb5e423107aaf3d90aa09b0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp.xml</FileName>
+			<FileHash>7b4e7851dd8c296d9a24bbaf4a955fe2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\kubelwagen_type_82\kubelwagen_type_82_mp.xml</FileName>
+			<FileHash>8f7c80d7c278ebf534d89beeb4dc4a2c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\opel_blitz_truck\opel_blitz_supply_truck_west_german_mp.xml</FileName>
+			<FileHash>b53334252c8d0abddc3984270e0af229</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panther_sdkfz_171\panther_sdkfz_171_commander_mp.xml</FileName>
+			<FileHash>547612e2ffec8bb922271a560fa8fdf2</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp.xml</FileName>
+			<FileHash>6f03e92eac58779de7ded293aa9b9450</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
+			<FileHash>8210c7e0559fde658e9eb8fdffb3a22f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.xml</FileName>
+			<FileHash>e489389f13928517f84a34539b9aa0c8</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\tiger_sdkfz_181\west_german_tiger_sdkfz_181_mp.xml</FileName>
+			<FileHash>cbcdc50f3f2b5c6577b6202fe6258335</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\locale\english\english.ucs</FileName>
+			<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\info\bc0c9a235688479dac0cf6329238c1b3.info</FileName>
+			<FileHash>d8ca4b192478ba1adde07b251547ab3f</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
