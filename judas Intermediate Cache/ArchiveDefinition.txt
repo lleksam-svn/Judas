@@ -3,6 +3,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
+	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\abilities\soviet\modal_ability\engineer_demo_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\gameplay\territory_fuel_point_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\gameplay\territory_munitions_point_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\gameplay\territory_point_mp.rgd
