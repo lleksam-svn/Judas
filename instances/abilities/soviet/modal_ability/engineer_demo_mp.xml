@@ -195,55 +195,6 @@
 						<bool name="suppressed" value="False" />
 						<bool name="camouflaged" value="False" />
 					</template_reference>
-					<template_reference name="required" value="requirements\required_near_entity">
-						<enum name="alliance_requirement" value="self" />
-						<float name="radius_requirement" value="5" />
-						<instance_reference name="entity_pbg" value="" />
-						<enum name="reason" value="usage" />
-						<locstring name="ui_name" value="0" />
-						<list name="near_entity_requirement">
-							<template_reference name="required" value="requirements\required_structure">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<instance_reference name="structure_name" value="ebps\gameplay\territory_fuel_point_mp" mod="bc0c9a235688479dac0cf6329238c1b3" />
-								<int name="required_structure_count" value="1" />
-								<bool name="check_team" value="False" />
-								<bool name="require_construction_complete" value="True" />
-							</template_reference>
-							<template_reference name="required" value="requirements\required_structure">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<instance_reference name="structure_name" value="ebps\gameplay\territory_munitions_point_mp" mod="bc0c9a235688479dac0cf6329238c1b3" />
-								<int name="required_structure_count" value="1" />
-								<bool name="check_team" value="False" />
-								<bool name="require_construction_complete" value="True" />
-							</template_reference>
-							<template_reference name="required" value="requirements\required_structure">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<instance_reference name="structure_name" value="ebps\gameplay\territory_point_mp" mod="bc0c9a235688479dac0cf6329238c1b3" />
-								<int name="required_structure_count" value="1" />
-								<bool name="check_team" value="False" />
-								<bool name="require_construction_complete" value="True" />
-							</template_reference>
-							<template_reference name="required" value="requirements\required_structure">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<instance_reference name="structure_name" value="ebps\gameplay\victory_point" mod="bc0c9a235688479dac0cf6329238c1b3" />
-								<int name="required_structure_count" value="1" />
-								<bool name="check_team" value="False" />
-								<bool name="require_construction_complete" value="True" />
-							</template_reference>
-							<template_reference name="required" value="requirements\required_structure">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<instance_reference name="structure_name" value="ebps\gameplay\victory_point" />
-								<int name="required_structure_count" value="1" />
-								<bool name="check_team" value="True" />
-								<bool name="require_construction_complete" value="True" />
-							</template_reference>
-						</list>
-					</template_reference>
 				</list>
 			</template_reference>
 		</list>
@@ -281,6 +232,30 @@
 				<float name="max_completed" value="100" />
 				<float name="min_completed" value="1" />
 				<instance_reference name="upgrade_name" value="upgrade\campaign\demolitions_disable" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_not">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="1" mod="bc0c9a235688479dac0cf6329238c1b3" />
+				<list name="requirement_table">
+					<template_reference name="required" value="requirements\required_near_entity">
+						<enum name="alliance_requirement" value="ally" />
+						<float name="radius_requirement" value="2" />
+						<instance_reference name="entity_pbg" value="" />
+						<enum name="reason" value="usage" />
+						<locstring name="ui_name" value="0" />
+						<list name="near_entity_requirement">
+							<template_reference name="required" value="requirements\required_unit_type">
+								<enum name="reason" value="usage" />
+								<locstring name="ui_name" value="0" />
+								<enum name="unit_type" value="strategic_node" />
+								<template_reference name="qualify_option" value="options\none">
+								</template_reference>
+								<bool name="search_load_out" value="False" />
+								<bool name="owned_by_player_only" value="True" />
+							</template_reference>
+						</list>
+					</template_reference>
+				</list>
 			</template_reference>
 		</list>
 		<template_reference name="targeted_ability_option" value="options\none">
