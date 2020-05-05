@@ -32,12 +32,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m7b1_priest\m7b1_priest_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m8a1_hmc\m8a1_hmc_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\m8_greyhound\m8_greyhound_mp.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_mark_vehicle_mp.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_recon.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_recon_plane_sweep.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_recon_tracking.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_rockets.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\planes\p47_strafe.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\vehicles\t34_calliope\t34_calliope_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\aec_armoured_car\aec_armoured_car_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\centaur\centaur_aa_mk2_mp.rgd
@@ -53,7 +47,6 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\hawker_typhoon\strafe_hawker_typhoon_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\m5_halftrack\m5_halftrack_british_mp.rgd
-	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\planes\spitfire_recon_plane.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\sexton_spg\sexton_spg_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\sherman_firefly\sherman_firefly_m4a2_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\british\vehicles\universal_carrier\universal_carrier_mp.rgd
@@ -109,6 +102,8 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\tiger_sdkfz_181\west_german_tiger_sdkfz_181_mp.rgd
+	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp.rgd
+	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\heavy_artillery\il_2_plane_crash_mp.rgd
 TOCEnd
 TOCStart name="locale" alias="locale" path="" relativeroot="locale"
 	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"

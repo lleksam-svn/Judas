@@ -7,7 +7,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\abilities\soviet\modal_ability\engineer_demo_mp.xml</FileName>
-			<FileHash>c9fac65106177d9ba42977597d83c3af</FileHash>
+			<FileHash>60ed571db2065a535944c9c3aa712cac</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\gameplay\territory_fuel_point_mp.xml</FileName>
@@ -122,30 +122,6 @@
 			<FileHash>e2d7c51afec3dcc4c44f1b68aaa2a2c1</FileHash>
 		</BurnInfo>
 		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_mark_vehicle_mp.xml</FileName>
-			<FileHash>a3e59424c5d1fe1e18139784652ba430</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon.xml</FileName>
-			<FileHash>8ae57f9ff8bd0ed4939c8c5a533334b8</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon_plane_sweep.xml</FileName>
-			<FileHash>2a83ba6e32aa9984956b5c22b2d9f4e6</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_recon_tracking.xml</FileName>
-			<FileHash>bcf9fec84925b3377df5243f72f0a225</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_rockets.xml</FileName>
-			<FileHash>7efd5af709af3cebeb1a6878aa170b0d</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\planes\p47_strafe.xml</FileName>
-			<FileHash>7f491eadcfcbbc1c9361bb84f105877d</FileHash>
-		</BurnInfo>
-		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\t34_calliope\t34_calliope_mp.xml</FileName>
 			<FileHash>e1a95a901a4b59a4b7ae547bd3b08232</FileHash>
 		</BurnInfo>
@@ -179,23 +155,23 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\recon_hawker_typhoon_assault_mp.xml</FileName>
-			<FileHash>91ab1b99003b81bd2e326ecfa34f1875</FileHash>
+			<FileHash>9538a2faaf3baaa364712c4726000f14</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\recon_hawker_typhoon_mp.xml</FileName>
-			<FileHash>087f19d0746efb9b0457498f01cfb7f9</FileHash>
+			<FileHash>8b83429b5224d2df937ec0fa17bae719</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\rocket_hawker_typhoon_mp.xml</FileName>
-			<FileHash>a0b3e4ac9b4cdf219c536aa319d25def</FileHash>
+			<FileHash>a463c384b708a4f4daf454dc52a10998</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\strafe_hawker_typhoon_air_superiority_mp.xml</FileName>
-			<FileHash>70c692746df7329ba3e400bf0ef3b1a5</FileHash>
+			<FileHash>36b56c8db1dd0c0fd6dbe0942353b69b</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\hawker_typhoon\strafe_hawker_typhoon_mp.xml</FileName>
-			<FileHash>58e10d0f588daa7ea20d5637f33970aa</FileHash>
+			<FileHash>12b3e745ddb32962cf69d820fba9d19a</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\m3_halftrack\m3_halftrack_resupply_mp.xml</FileName>
@@ -204,10 +180,6 @@
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\m5_halftrack\m5_halftrack_british_mp.xml</FileName>
 			<FileHash>8368cd6dd72b7221754320cde391b43d</FileHash>
-		</BurnInfo>
-		<BurnInfo>
-			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\planes\spitfire_recon_plane.xml</FileName>
-			<FileHash>9c6d7df6556d9d5770d507c7a3b762ee</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\british\vehicles\sexton_spg\sexton_spg_mp.xml</FileName>
@@ -430,8 +402,16 @@
 			<FileHash>a8273ffbe041f42c5ff7d6bfdeed8a2d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp.xml</FileName>
+			<FileHash>b93689f06c19bfa2bf8601b9cc2f47fb</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\weapon\soviet\explosive_weapons\heavy_artillery\il_2_plane_crash_mp.xml</FileName>
+			<FileHash>1d8782eeb0cbd65a00d91aa2439dd63f</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\locale\english\english.ucs</FileName>
-			<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+			<FileHash>6a8b026c170a6041ecd65903d8a52766</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\info\bc0c9a235688479dac0cf6329238c1b3.info</FileName>
