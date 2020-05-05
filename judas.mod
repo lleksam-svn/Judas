@@ -30,19 +30,21 @@
 					<Name>english</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 		<d2p1:anyType i:type="TableOfContents">
 			<Alias>Info</Alias>
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description></Description>
+					<Description>Created by wuff.
+
+Removes fustrasting RNG elements. </Description>
 					<Hidden>false</Hidden>
 					<Name>Judas</Name>
 				</d2p1:anyType>
 			</Children>
-			<IsExpanded>false</IsExpanded>
+			<IsExpanded>true</IsExpanded>
 		</d2p1:anyType>
 	</Children>
 	<Guid>bc0c9a23-5688-479d-ac0c-f6329238c1b3</Guid>

@@ -1,6 +1,6 @@
 hidden = false
 name = "Judas"
-description = ""
+description = "Created by wuff.\r\n\r\nRemoves fustrasting RNG elements. "
 dependencies = 
 {
 }
