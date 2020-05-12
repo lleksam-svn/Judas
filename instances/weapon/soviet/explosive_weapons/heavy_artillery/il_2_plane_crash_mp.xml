@@ -46,9 +46,9 @@
 				<float name="radius" value="6" />
 			</group>
 			<group name="damage">
-				<float name="far" value="0.05" />
-				<float name="near" value="1" />
-				<float name="mid" value="0.15" />
+				<float name="far" value="0" />
+				<float name="near" value="0" />
+				<float name="mid" value="0" />
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
@@ -56,11 +56,11 @@
 				<float name="mid" value="0.025" />
 			</group>
 			<group name="distance">
-				<float name="far" value="4.5" />
-				<float name="near" value="1.5" />
-				<float name="mid" value="3" />
+				<float name="far" value="0" />
+				<float name="near" value="0" />
+				<float name="mid" value="0" />
 			</group>
-			<bool name="has_friendly_fire" value="True" />
+			<bool name="has_friendly_fire" value="False" />
 			<bool name="can_harm_shooter" value="False" />
 			<group name="suppression">
 				<float name="far" value="0.25" />
@@ -85,7 +85,7 @@
 			</group>
 			<instance_reference name="weapon_building_damage" value="weapon_building_damage\aoe_profile_no_change" />
 			<enum name="aoe_origin_and_direction" value="hit_position_and_direction" />
-			<int name="damage_max_members_per_squad" value="-1" />
+			<int name="damage_max_members_per_squad" value="0" />
 		</group>
 		<group name="behaviour">
 			<bool name="aa_weapon" value="False" />

@@ -37,11 +37,11 @@
 			<Children>
 				<d2p1:anyType i:type="BurnModInfo">
 					<Dependencies />
-					<Description>Created by wuff.
+					<Description>A major  RNG event reduction mod for use in Master League Tournaments
 
-Removes fustrasting RNG elements. </Description>
+This mod aims to remove the most significant RNG events that are game driven but negatively impact the players actions in a major way.We accept that the following may add character to Company of Heroes, but they are ultimately unsutiable for competitive tournament play.</Description>
 					<Hidden>false</Hidden>
-					<Name>Judas</Name>
+					<Name>Tournament Mode</Name>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>
