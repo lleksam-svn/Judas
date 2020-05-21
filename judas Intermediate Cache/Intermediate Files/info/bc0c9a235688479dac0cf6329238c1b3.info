@@ -1,6 +1,6 @@
 hidden = false
 name = "Tournament Mode"
-description = "A major  RNG event reduction mod for use in Master League Tournaments\r\n\r\nThis mod aims to remove the most significant RNG events that are game driven but negatively impact the players actions in a major way.We accept that the following may add character to Company of Heroes, but they are ultimately unsutiable for competitive tournament play."
+description = "A major  RNG event reduction mod for use in Master League Tournaments\n\nThis mod aims to remove the most significant RNG events that are game driven but negatively impact the players actions in a major way.We accept that the following may add character to Company of Heroes, but they are ultimately unsutiable for competitive tournament play."
 dependencies = 
 {
 }
