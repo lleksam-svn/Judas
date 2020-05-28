@@ -459,7 +459,7 @@
 			<float name="crash_fall_cap" value="60" />
 			<float name="crash_fall_rate" value="40" />
 			<float name="crash_turn_rate_cap" value="10" />
-			<instance_reference name="crash_weapon_name" value="weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp" />
+			<instance_reference name="crash_weapon_name" value="weapon\soviet\explosive_weapons\heavy_artillery\il_2_plane_crash_mp" />
 			<float name="distance_to_dive" value="1" />
 			<float name="est_seconds_in_future" value="3" />
 			<float name="flight_max_turning_degree" value="10" />

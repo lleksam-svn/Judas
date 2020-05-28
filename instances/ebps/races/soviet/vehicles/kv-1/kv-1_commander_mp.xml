@@ -1,4 +1,4 @@
-<instance description="Flame thrower versiion of the Kv1&#xA;Multiplayer Clone." template="ebps">
+<instance description="heavy tank with a weak gun&#xA;Multiplayer Clone." template="ebps">
 	<list name="extensions">
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<bool name="always_revealed_in_fow" value="False" />
@@ -16,22 +16,15 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
-				<instance_reference name="ability" value="abilities\soviet\toggle_ability\kv-8_flame_45mm_toggle_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sov_vehicle_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\aef\toggle_ability\usf_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\soviet\toggle_ability\tank_ambush_mp" />
+				<instance_reference name="ability" value="abilities\soviet\toggle_ability\kv1_hulldown_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
 			<list name="actions">
-				<template_reference name="action" value="action\animator_set_state">
-					<bool name="apply_to_leader_only" value="False" />
-					<string name="do_action_state_name" value="kv-8" />
-					<bool name="retrigger" value="False" />
-					<string name="state_machine_name" value="tank_variation" />
-					<string name="undo_action_state_name" value="" />
-					<uniqueid name="id" value="1073741901" />
-				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
 					<bool name="permanent" value="True" />
@@ -46,7 +39,77 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\capture_enable_squad_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073741902" />
+					<uniqueid name="id" value="1073743345" />
+				</template_reference>
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="False" />
+					<bool name="kill_action_on_failed_requirements" value="False" />
+					<bool name="no_retrigger" value="False" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_in_state">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<bool name="garrisoned" value="False" />
+									<bool name="healed" value="False" />
+									<float name="in_combat_since" value="-1" />
+									<bool name="injured" value="False" />
+									<bool name="leader" value="False" />
+									<bool name="not_moving" value="True" />
+									<bool name="not_retreating" value="False" />
+									<bool name="pinned" value="False" />
+									<bool name="suppressed" value="False" />
+									<bool name="camouflaged" value="False" />
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\apply_modifiers_action">
+							<float name="duration" value="0" />
+							<bool name="permanent" value="False" />
+							<list name="modifiers">
+								<template_reference name="modifier" value="modifiers\weapon_scatter">
+									<enum name="application_type" value="apply_to_weapon" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="hardpoint_01" />
+									<enum name="usage_type" value="multiplication" />
+									<float name="value" value="1.75" />
+									<instance_reference name="tooltip" value="modifier_tooltip\weapon_scatter" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073743346" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073743347" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
+				</template_reference>
+				<template_reference name="action" value="action\apply_modifiers_action">
+					<float name="duration" value="0" />
+					<bool name="permanent" value="True" />
+					<list name="modifiers">
+						<template_reference name="modifier" value="modifiers\received_damage_modifier">
+							<enum name="application_type" value="apply_to_entity" />
+							<bool name="exclusive" value="False" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="" />
+							<enum name="usage_type" value="multiplication" />
+							<float name="value" value="0.8" />
+							<instance_reference name="tooltip" value="modifier_tooltip\received_damage_modifier" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073743348" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -56,11 +119,11 @@
 					<float name="action" value="0" />
 					<float name="command" value="0" />
 					<float name="fuel" value="145" />
-					<float name="manpower" value="390" />
+					<float name="manpower" value="420" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="55" />
+				<float name="time_seconds" value="60" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\health_ext">
@@ -70,7 +133,7 @@
 			<float name="death_seconds" value="1.8" />
 			<bool name="delete_when_dead" value="True" />
 			<bool name="force_attacker_memory" value="False" />
-			<float name="hitpoints" value="960" />
+			<float name="hitpoints" value="800" />
 			<bool name="is_invincible" value="False" />
 			<bool name="is_salvagable_wreck" value="False" />
 			<bool name="keep_wreck_ownership" value="False" />
@@ -84,11 +147,11 @@
 			<bool name="remove_from_pathfinding_on_death" value="True" />
 			<bool name="reveal_to_all_on_death" value="False" />
 			<bool name="ui_can_scuttle" value="False" />
-			<instance_reference name="wreck_entity" value="ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_kv-8" />
+			<instance_reference name="wreck_entity" value="ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_kv-1_mp" />
 			<list name="death_actions">
 			</list>
-			<float name="armor" value="260" />
-			<float name="rear_armor" value="145" />
+			<float name="armor" value="270" />
+			<float name="rear_armor" value="165" />
 			<float name="target_size" value="24" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
@@ -378,7 +441,7 @@
 				<enum name="unit_type02" value="" />
 				<enum name="unit_type03" value="tank_awareness_ally" />
 				<enum name="unit_type04" value="heavy_vehicle" />
-				<enum name="unit_type05" value="kv_8" />
+				<enum name="unit_type05" value="kv_1" />
 				<enum name="unit_type06" value="soviet_vehicles" />
 				<enum name="unit_type07" value="heavy_tank" />
 				<enum name="unit_type08" value="" />
@@ -400,9 +463,9 @@
 			<string name="extra_text_deprecated" value="" />
 			<bool name="ghost_enable" value="False" />
 			<bool name="has_speech_code" value="True" />
-			<locstring name="help_text" value="11038307" />
+			<locstring name="help_text" value="11053584" />
 			<string name="hotkey_name" value="" />
-			<icon name="icon_name" value="Icons_vehicles_vehicle_soviet_kv8_flame" />
+			<icon name="icon_name" value="Icons_vehicles_vehicle_soviet_kv1_heavy_tank" />
 			<enum name="kill_type" value="heavy_armour" />
 			<float name="minimap_color_a" value="255" />
 			<float name="minimap_color_b" value="255" />
@@ -414,7 +477,7 @@
 			<bool name="obb_selectable" value="False" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="True" />
-			<locstring name="screen_name" value="11038342" />
+			<locstring name="screen_name" value="11053587" />
 			<enum name="selection_name" value="vehicle" />
 			<float name="selection_scale" value="1" />
 			<enum name="selection_type" value="squad_select" />
@@ -425,12 +488,12 @@
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_2">
-				<string name="code_1" value="ar" />
-				<string name="code_2" value="ha" />
-				<string name="code_3" value="" />
+				<string name="code_1" value="kv" />
+				<string name="code_2" value="ar" />
+				<string name="code_3" value="ha" />
 			</group>
 			<group name="speech_code_3">
-				<string name="code_1" value="kv8" />
+				<string name="code_1" value="kv1" />
 				<string name="code_2" value="arm" />
 				<string name="code_3" value="htk" />
 			</group>
@@ -440,27 +503,27 @@
 				<string name="code_3" value="" />
 			</group>
 			<bool name="tacmap_team_only" value="False" />
-			<locstring name="tooltip_txt" value="11049232" />
+			<locstring name="tooltip_txt" value="11053589" />
 			<int name="ui_priority" value="0" />
 			<icon name="minimap_icon" value="" />
+			<icon name="portrait_icon_winter" value="Icons_portraits_vehicle_soviet_kv1_heavy_tank_w_portrait" />
 			<group name="speaker_alt">
 				<string name="code_1" value="" />
 				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<float name="minimap_icon_scale" value="1" />
-			<icon name="portrait_icon_winter" value="Icons_portraits_vehicle_soviet_kv8_flamethrower_tank_w_portrait" />
-			<icon name="portrait_icon_summer" value="Icons_portraits_vehicle_soviet_kv8_flamethrower_tank_s_portrait" />
+			<icon name="portrait_icon_summer" value="Icons_portraits_vehicle_soviet_kv1_heavy_tank_s_portrait" />
 			<locstring name="brief_text" value="0" />
-			<locstring name="extra_text" value="11049069" />
+			<locstring name="extra_text" value="11053585" />
 			<locstring name="screen_name_short" value="0" />
 			<bool name="show_in_build_log" value="True" />
 			<bool name="show_entity_appearance" value="True" />
-			<locstring name="screen_name_world" value="11048012" />
+			<locstring name="screen_name_world" value="11053588" />
 			<locstring name="help_text_world" value="0" />
-			<locstring name="extra_text_world" value="11049289" />
+			<locstring name="extra_text_world" value="11053586" />
 			<enum name="map_rotation_type_override" value="no_override" />
-			<icon name="symbol_icon_name" value="Icons_symbols_vehicle_soviet_kv8_symbol" />
+			<icon name="symbol_icon_name" value="Icons_symbols_vehicle_soviet_kv1_heavy_tank_symbol" />
 			<enum name="occlusion_state" value="can_be_occluded" />
 			<enum name="decorator_visibility" value="default" />
 			<string name="decorator_marker_name" value="Marker_FX_UI" />
@@ -504,22 +567,7 @@
 								<float name="z" value="0.53" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\flame_throwers\kv8_ato-41_flamethrower_mp" />
-						</group>
-						<group name="weapon">
-							<group name="heading">
-								<float name="x" value="0" />
-								<float name="y" value="0" />
-								<float name="z" value="1" />
-							</group>
-							<float name="length" value="0" />
-							<group name="origin">
-								<float name="x" value="0" />
-								<float name="y" value="0.5" />
-								<float name="z" value="0" />
-							</group>
-							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\ballistic_weapon\tank_gun\kv-8_45mm_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\ballistic_weapon\tank_gun\t34_kv1_m1940_f-34_76mm__mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -540,7 +588,7 @@
 								<float name="z" value="2.07" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="" />
+							<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\light_machine_gun\kv_coaxial_vehicle_turret_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -582,7 +630,7 @@
 								<float name="z" value="2.95" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\light_machine_gun\coaxial_vehicle_hull_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\small_arms\machine_gun\light_machine_gun\kv_coaxial_vehicle_hull_mp" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -801,12 +849,12 @@
 			<bool name="crushes_buildings" value="True" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\moving_ext">
-			<float name="acceleration" value="1.4" />
-			<float name="deceleration" value="3.6" />
+			<float name="acceleration" value="1.6" />
+			<float name="deceleration" value="3.8" />
 			<float name="high_path_look_ahead_max_dist" value="25" />
 			<bool name="orient_to_terrain" value="True" />
 			<instance_reference name="pass_type" value="pass_types\heavy_crusher" />
-			<float name="rotation_rate" value="29" />
+			<float name="rotation_rate" value="30" />
 			<float name="rotation_rate_crouch" value="870" />
 			<float name="rotation_rate_prone" value="225" />
 			<float name="rotation_rate_stand" value="870" />
@@ -815,7 +863,7 @@
 			<instance_reference name="turn_plan" value="turn_plan\tank_i" />
 			<float name="on_ice_accel_decel_multiplier" value="0.6" />
 			<float name="on_land_overturn_scale" value="0.12" />
-			<float name="on_ice_overturn_scale" value="1.3" />
+			<float name="on_ice_overturn_scale" value="2" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\obj_cover_ext">
 			<enum name="cover_type" value="tp_heavy" />
@@ -838,7 +886,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\soviet\vehicles\kv-8\kv-8_mp" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\soviet\vehicles\kv-1\kv-1_commander_mp" />
 						<float name="max_capture_crew_size" value="3" />
 						<float name="min_capture_crew_size" value="3" />
 						<list name="recrew_penalties_list">
@@ -860,6 +908,122 @@
 			<list name="standard_upgrades">
 			</list>
 		</template_reference>
+		<template_reference name="exts" value="ebpextensions\camouflage_ext">
+			<float name="attack_priority" value="0" />
+			<enum name="camouflage_type" value="tp_global" />
+			<bool name="chain_revealer" value="True" />
+			<float name="detection_radius" value="20" />
+			<bool name="must_be_fully_constructed" value="False" />
+			<bool name="permanently_activated" value="False" />
+			<float name="combat_reset_time" value="8" />
+			<float name="first_strike_shots" value="1" />
+			<float name="revert_max" value="25" />
+			<float name="revert_multiplier" value="1.5" />
+			<float name="revert_time" value="8" />
+			<float name="revert_time_on_detection" value="8" />
+			<list name="camouflage_actions">
+			</list>
+			<list name="first_strike_actions">
+				<template_reference name="action" value="action\requirement_action">
+					<bool name="check_self" value="False" />
+					<bool name="global_fire_and_forget_on_success" value="False" />
+					<bool name="instant_requirement_check" value="True" />
+					<bool name="kill_action_on_failed_requirements" value="False" />
+					<bool name="no_retrigger" value="False" />
+					<bool name="validate_all_sub_actions" value="True" />
+					<list name="requirement_table">
+						<template_reference name="required" value="requirements\required_not">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirement_table">
+								<template_reference name="required" value="requirements\required_in_state">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<bool name="garrisoned" value="False" />
+									<bool name="healed" value="False" />
+									<float name="in_combat_since" value="10" />
+									<bool name="injured" value="False" />
+									<bool name="leader" value="False" />
+									<bool name="not_moving" value="False" />
+									<bool name="not_retreating" value="False" />
+									<bool name="pinned" value="False" />
+									<bool name="suppressed" value="False" />
+									<bool name="camouflaged" value="False" />
+								</template_reference>
+							</list>
+						</template_reference>
+						<template_reference name="required" value="requirements\required_any_in_list">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<list name="requirements">
+								<template_reference name="requirement" value="requirements\required_player_upgrade">
+									<enum name="reason" value="usage" />
+									<locstring name="ui_name" value="0" />
+									<bool name="is_present" value="True" />
+									<float name="max_completed" value="100" />
+									<float name="min_completed" value="1" />
+									<instance_reference name="upgrade_name" value="upgrade\soviet\commander\passive\anti_tank_gun_ambush_tactics_tank_hunter" />
+								</template_reference>
+							</list>
+						</template_reference>
+					</list>
+					<list name="action_table">
+						<template_reference name="action" value="action\apply_modifiers_action">
+							<float name="duration" value="0.125" />
+							<bool name="permanent" value="False" />
+							<list name="modifiers">
+								<template_reference name="modifier" value="modifiers\weapon_penetration_modifier">
+									<enum name="application_type" value="apply_to_weapon" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="hardpoint_01" />
+									<enum name="usage_type" value="multiplication" />
+									<float name="value" value="1.2" />
+									<instance_reference name="tooltip" value="modifier_tooltip\weapon_penetration_modifier" />
+								</template_reference>
+								<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
+									<enum name="application_type" value="apply_to_weapon" />
+									<bool name="exclusive" value="False" />
+									<string name="modifier_id" value="" />
+									<string name="target_type_name" value="hardpoint_01" />
+									<enum name="usage_type" value="multiplication" />
+									<float name="value" value="1.2" />
+									<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
+								</template_reference>
+							</list>
+							<uniqueid name="id" value="1073743349" />
+						</template_reference>
+						<template_reference name="action" value="action\change_target_action">
+							<list name="actions">
+								<template_reference name="action" value="action\timed_action">
+									<float name="duration" value="3" />
+									<bool name="fire_and_forget" value="False" />
+									<list name="subactions">
+										<template_reference name="action" value="action\animator_set_state">
+											<bool name="apply_to_leader_only" value="True" />
+											<string name="do_action_state_name" value="on" />
+											<bool name="retrigger" value="True" />
+											<string name="state_machine_name" value="ability_attack_buff_state" />
+											<string name="undo_action_state_name" value="off" />
+											<uniqueid name="id" value="1073743350" />
+										</template_reference>
+									</list>
+									<uniqueid name="id" value="1073743351" />
+								</template_reference>
+							</list>
+							<enum name="change_target_type" value="squad" />
+							<uniqueid name="id" value="1073743352" />
+						</template_reference>
+					</list>
+					<uniqueid name="id" value="1073743353" />
+					<bool name="fire_and_forget_non_global" value="False" />
+					<template_reference name="ui_help_text" value="tables\help_text_phrase">
+						<int name="phrase_order" value="0" />
+						<locstring name="phrase" value="0" />
+					</template_reference>
+				</template_reference>
+			</list>
+		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1759" />
+	<uniqueid name="pbgid" value="2109" />
 </instance>

@@ -99,6 +99,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\is-2_heavy_tank\is-2_heavy_tank_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\isu_152_spg\isu_152_spg_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\katyusha_rocket_trucks\katyusha_bm-13n_mp.rgd
+	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\kv-1\kv-1_commander_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\kv-1\kv-1_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\kv-2\kv-2_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\soviet\vehicles\kv-8\kv-8_mp.rgd

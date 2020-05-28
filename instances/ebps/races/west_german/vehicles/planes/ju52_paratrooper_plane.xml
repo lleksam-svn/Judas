@@ -59,7 +59,7 @@
 			<list name="death_actions">
 				<template_reference name="action" value="action\set_crush_mode">
 					<enum name="crush_mode" value="crush_heavy" />
-					<uniqueid name="id" value="1073743164" />
+					<uniqueid name="id" value="1073743358" />
 				</template_reference>
 			</list>
 			<float name="armor" value="1000" />
@@ -459,7 +459,7 @@
 			<float name="crash_fall_cap" value="60" />
 			<float name="crash_fall_rate" value="40" />
 			<float name="crash_turn_rate_cap" value="10" />
-			<instance_reference name="crash_weapon_name" value="weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp" mod="bc0c9a235688479dac0cf6329238c1b3" />
+			<instance_reference name="crash_weapon_name" value="weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp" />
 			<float name="distance_to_dive" value="1" />
 			<float name="est_seconds_in_future" value="3" />
 			<float name="flight_max_turning_degree" value="10" />
@@ -487,7 +487,7 @@
 								<int name="number_of_entities_to_spawn" value="1" />
 								<float name="entity_scatter" value="1" />
 								<float name="entity_height_scatter" value="15" />
-								<uniqueid name="id" value="1073743165" />
+								<uniqueid name="id" value="1073743359" />
 								<enum name="paradrop_drift_type" value="wind_dir" />
 								<template_reference name="scatter_type_option" value="options\action\paradrop_action\scatter_type_line">
 									<float name="length" value="5" />
@@ -508,7 +508,7 @@
 								</template_reference>
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743166" />
+						<uniqueid name="id" value="1073743360" />
 					</template_reference>
 				</list>
 				<list name="to_attack_position_actions">
