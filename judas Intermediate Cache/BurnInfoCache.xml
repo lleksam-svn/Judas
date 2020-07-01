@@ -7,7 +7,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp.xml</FileName>
-			<FileHash>4cca6749a7542f37d53f8673872141f4</FileHash>
+			<FileHash>93cd0be8f99c8c66d503ad94d0e5618d</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_ambulance_mp.xml</FileName>
@@ -426,6 +426,10 @@
 			<FileHash>4731ef354f5ee4989434878c70c03658</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\su_85\su_85_mp.xml</FileName>
+			<FileHash>e786561e248bda47fdc513742955f228</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\soviet\vehicles\t_34\t_34_76_mp.xml</FileName>
 			<FileHash>7ef74ce7a3c67d65e3f172cefd3e3f9d</FileHash>
 		</BurnInfo>
@@ -479,7 +483,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\kubelwagen_type_82\kubelwagen_type_82_mp.xml</FileName>
-			<FileHash>8f7c80d7c278ebf534d89beeb4dc4a2c</FileHash>
+			<FileHash>96869c262277eaa328f8663ca206516f</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\opel_blitz_truck\opel_blitz_supply_truck_west_german_mp.xml</FileName>
@@ -492,6 +496,10 @@
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panther_sdkfz_171_ausf_g\panther_sdkfz_171_ausf_g_mp.xml</FileName>
 			<FileHash>6b8a00b8f637884c1ba98209fc20e22c</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panzer_ii_luchs_sdkfz_123\panzer_ii_luchs_sdkfz_123_mp.xml</FileName>
+			<FileHash>b253d4fd5b7ccfda100af5b503c89e42</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\panzer_iv_sdkfz_161\panzer_iv_sdkfz_ausf_j_mp.xml</FileName>
@@ -510,6 +518,10 @@
 			<FileHash>3e7361cfb9953e019210aee4e510f751</FileHash>
 		</BurnInfo>
 		<BurnInfo>
+			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\puma_sdkfz_234\puma_sdkfz_234_mp.xml</FileName>
+			<FileHash>76d5d3d8b2fd74b07d3fdbeb573b09d1</FileHash>
+		</BurnInfo>
+		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.xml</FileName>
 			<FileHash>7ef993d931e9a3b3bb23eda914b9585c</FileHash>
 		</BurnInfo>
@@ -519,11 +531,11 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp.xml</FileName>
-			<FileHash>4eb792ba69244ccf865d48ae093ea70b</FileHash>
+			<FileHash>6da4a19e60386b5e92364e2930b775fc</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\instances\weapon\soviet\explosive_weapons\heavy_artillery\il_2_plane_crash_mp.xml</FileName>
-			<FileHash>2af76f730b8ec9860261037ad8cba7ec</FileHash>
+			<FileHash>cc6d2dfc612aee011fc0ce79ea1d98b4</FileHash>
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\locale\english\english.ucs</FileName>
@@ -531,7 +543,7 @@
 		</BurnInfo>
 		<BurnInfo>
 			<FileName>C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\info\bc0c9a235688479dac0cf6329238c1b3.info</FileName>
-			<FileHash>8b928371992f6c3f0ad20fd3ed2588d4</FileHash>
+			<FileHash>df41adcc55570d3f68bd75741b96ef9a</FileHash>
 		</BurnInfo>
 	</BurnInfo>
 	<BurnInfoExtendedInfo />

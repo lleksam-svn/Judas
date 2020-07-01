@@ -52,7 +52,7 @@
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
-				<float name="near" value="0.5" />
+				<float name="near" value="0.025" />
 				<float name="mid" value="0.075" />
 			</group>
 			<group name="distance">

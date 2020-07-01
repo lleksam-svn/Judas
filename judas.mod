@@ -39,7 +39,14 @@
 					<Dependencies />
 					<Description>A major  RNG event reduction mod for use in Master League Tournaments
 
-This mod aims to remove the most significant RNG events that are game driven but negatively impact the players actions in a major way.We accept that the following may add character to Company of Heroes, but they are ultimately unsutiable for competitive tournament play.</Description>
+This mod aims to remove the most significant RNG events that are game driven but negatively impact the players actions in a major way.We accept that the following may add character to Company of Heroes, but they are ultimately unsutiable for competitive tournament play.
+
+Features
+ - Abandon Critical removed
+ - Main Gun Destroyed Critical removed
+ - Tanks firing guns whilst 'out of control' removed
+ - Plane crashes no longer cause death
+</Description>
 					<Hidden>false</Hidden>
 					<Name>Tournament Mode</Name>
 				</d2p1:anyType>
