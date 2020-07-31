@@ -134,6 +134,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\puma_sdkfz_234\puma_sdkfz_234_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\sturmtiger_606_38cm_rw_61\sturmtiger_606_38cm_rw_61_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\west_german\vehicles\tiger_sdkfz_181\west_german_tiger_sdkfz_181_mp.rgd
+	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\intel_bulletins\light_vehicle\veteran_health_movespeed_halftrack.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\weapon\axis\explosive_weapons\heavy_artillery\stuka_plane_crash_mp.rgd
 	C:\Users\kaneda\Documents\my games\company of heroes 2\mods\mymods\judas\judas Intermediate Cache\Intermediate Files\attrib\attrib\weapon\soviet\explosive_weapons\heavy_artillery\il_2_plane_crash_mp.rgd
 TOCEnd
