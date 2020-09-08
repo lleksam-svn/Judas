@@ -46,9 +46,15 @@ Features
  - Main Gun Destroyed Critical removed
  - Tanks firing guns whilst 'out of control' removed
  - Plane crashes no longer cause death
+ - Removes the hidden health buff from the veteran training : half track bulletin
+
 </Description>
 					<Hidden>false</Hidden>
 					<Name>Tournament Mode</Name>
+				</d2p1:anyType>
+				<d2p1:anyType i:type="BurnFile">
+					<BurnSettings i:nil="true" />
+					<RelativeName>..\..\..\..\..\..\Desktop\ml.tga</RelativeName>
 				</d2p1:anyType>
 			</Children>
 			<IsExpanded>true</IsExpanded>
